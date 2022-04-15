@@ -22,10 +22,10 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
 - 4.join table transliteration into table arabic.index = transliteration.index
 
 # Step to do data analysis
-:point_right: 1 Collected data from various sources.
-:point_right: 2 Analyze data perform analysis and synthesis of data what we having data
-:point_right: 3.Insert data to postgresql by using file.csv
-:point_right: 4.Create question that we need to know that are about quran
+- :point_right: 1 Collected data from various sources.
+- :point_right: 2 Analyze data perform analysis and synthesis of data what we having data
+- :point_right: 3.Insert data to postgresql by using file.csv
+- :point_right: 4.Create question that we need to know that are about quran
    - 1.How many verses(ayah) are there in Al-quran?
    - 2.How many verses(ayah) each surah are there in the Quran?
    - 3.How many sujud sujdah are there in al-quran?
@@ -38,8 +38,8 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
    - 10.How many surah there are verses(ayah)less than 10 or equal to 10?
    - 11.Which surah there are verses(ayah)less than 10 verses or equal to 10 verse?
    - 12.from the holy qur-an ,how many verses(ayah) for the surah that shortest and the longest?
-5.Retrieve data from  database by using select statement
-6.Check result 
+- :point_right: Retrieve data from  database by using select statement
+- :point_right: Check result 
 
 # Authors
 - 1.Sulaiman Charaae 631437005 
