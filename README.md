@@ -2,13 +2,13 @@
 This project is  part of Big data and data warehouse course.  Which is managing data in database by using Olap-cube and postgreSql database program.
 Usability, The data set consists of Ayah Quran,transliteration and language translation in ASEAN countries. Due to the difficult retrieve data quote obstacles. That's causing us get some data for Asian languages. which consists of data in Thai, English, Malay, Indonesian and Cambodian language which has the extension csv file.csv
 
-#Tool 
+# Tool 
 -github
 -postgresql 
 -excel 
 -Vituastudio code
 
-#Step to do star schema 
+# tep to do star schema 
 take table arabic to main and take table quran_surah transliteration and translate by using statement join
 
 -1.Create table arabic consist column index, surah,ayah and text.
@@ -21,7 +21,7 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
 -3.Join table quran_surah into table arabic by using arabic.surah = quran_surah.surah_id
 -4.join table transliteration into table arabic.index = transliteration.index
 
-#Step to do data analysis
+# Step to do data analysis
 1 Collected data from various sources.
 2 Analyze data perform analysis and synthesis of data what we having data
 3.Insert data to postgresql by using file.csv
@@ -41,15 +41,15 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
 5.Retrieve data from  database by using select statement
 6.Check result 
 
-#Authors
+# uthors
 -1.Sulaiman Charaae 631437005 
 -2.Amir Radeng 631437011
 -3.Huda Yala 632437002
 
-#summary
+# summary
 The project Which is managing data in database to do data analysis with star schema and various tool for getting result 
 
-#reference
+# reference
 -hablullah, A. (2021) data-quran.: Live Science [online]. Available at: https://github.com/hablullah/data-quran?fbclid=IwAR0WhiCADjUujY-Q2pzOvNF3A-rCwv2ZibvgQFC9AzSfR5XEryZiPLtIpHw [Accessed 15th April 2022]. 
 
 -voiceofquran, A. (2013) Quran-Surah.Toranto,Canada: Live Science [online]. Available at: https://github.com/voiceofquran/Quran-Surah?fbclid=IwAR39NZOCNp0U8o0VwQZMIh3qRJVVHwbRxoJM5YcH0HaYyox7h2jXXuay6uY
