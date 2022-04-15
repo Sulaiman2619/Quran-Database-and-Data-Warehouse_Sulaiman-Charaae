@@ -3,10 +3,10 @@ This project is  part of Big data and data warehouse course.  Which is managing 
 Usability, The data set consists of Ayah Quran,transliteration and language translation in ASEAN countries. Due to the difficult retrieve data quote obstacles. That's causing us get some data for Asian languages. which consists of data in Thai, English, Malay, Indonesian and Cambodian language which has the extension csv file.csv
 
 # Tool 
-- github
-- postgresql 
-- excel 
-- Vituastudio code
+- Github
+- Postgresql 
+- Excel 
+- Visual Studio Code
 
 # Step to do star schema 
 take table arabic to main and take table quran_surah transliteration and translate by using statement join
