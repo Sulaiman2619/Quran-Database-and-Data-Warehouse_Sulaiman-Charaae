@@ -9,7 +9,7 @@ Usability, The data set consists of Ayah Quran,transliteration and language tran
 - Visual Studio Code
 
 # Step to do star schema 
-take table arabic to main and take table quran_surah transliteration and translate by using statement join
+take table arabic to be main and take table quran_surah transliteration and translate by using statement join
 
 - 1.Create table arabic consist column index, surah,ayah and text.
 quran_surah consist column surah_id,arabic,latin, english,sajda,ayah,types.
