@@ -50,7 +50,7 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
 The project Which is managing data in database to do data analysis with star schema and various tool for getting result 
 
 #reference
--hablullah, A. (2021) data-quran.: Live Science [online]. Available at: https://github.com/hablullah/data-quran?fbclid=IwAR0WhiCADjUujY-Q2pzOvNF3A-rCwv2ZibvgQFC9AzSfR5XEryZiPLtIpHw [Accessed 15th April 2022].  
+-hablullah, A. (2021) data-quran.: Live Science [online]. Available at: https://github.com/hablullah/data-quran?fbclid=IwAR0WhiCADjUujY-Q2pzOvNF3A-rCwv2ZibvgQFC9AzSfR5XEryZiPLtIpHw [Accessed 15th April 2022]. 
 
 -voiceofquran, A. (2013) Quran-Surah.Toranto,Canada: Live Science [online]. Available at: https://github.com/voiceofquran/Quran-Surah?fbclid=IwAR39NZOCNp0U8o0VwQZMIh3qRJVVHwbRxoJM5YcH0HaYyox7h2jXXuay6uY
 [Accessed 15th April 2022].  
