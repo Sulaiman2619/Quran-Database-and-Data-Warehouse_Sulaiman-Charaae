@@ -41,7 +41,7 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
 - :point_right: Retrieve data from  database by using select statement
 - :point_right: Check result 
 
-# Authors
+# Authors 👨 :man: 👨 :man: :woman: 
 - 1.Sulaiman Charaae 631437005 
 - 2.Amir Radeng 631437011
 - 3.Huda Yala 632437002
