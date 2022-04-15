@@ -38,8 +38,8 @@ transliteration.transliteration,translate.th_translate,translate.en_translate,tr
    - 10.How many surah there are verses(ayah)less than 10 or equal to 10?
    - 11.Which surah there are verses(ayah)less than 10 verses or equal to 10 verse?
    - 12.from the holy qur-an ,how many verses(ayah) for the surah that shortest and the longest?
-- :point_right: Retrieve data from  database by using select statement
-- :point_right: Check result 
+- :point_right: 5.Retrieve data from  database by using select statement
+- :point_right: 6.Check result 
 
 # Authors   
 - 1.Sulaiman Charaae 631437005 
